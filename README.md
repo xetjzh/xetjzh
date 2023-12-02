@@ -3,7 +3,7 @@
 > Hello, I am xetjzh, a medical student who loves to toss, welcome to my github's personal homepage!
 
 <h2 align="center">Introduce myself</h2>
-```
+```python
 def this_me():
     while True:
         print("Please select an option:")

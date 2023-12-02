@@ -3,9 +3,8 @@
 > Hello, I am xetjzh, a medical student who loves to toss, welcome to my github's personal homepage!
 
 <h2 align="center">Introduce myself</h2>
-```python
-
-// use python
+    ```python
+   // use python
 def this_me():
     while True:
         print("Please select an option:")
@@ -29,5 +28,4 @@ def this_me():
         print("\n")
 if __name__ == "__main__":
     this_me()
-```
-
+    ```

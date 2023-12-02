@@ -4,7 +4,8 @@
 
 <h2 align="center">Introduce myself</h2>
 
-```
+```python
+#use python3
 def this_me():
     while True:
         print("Please select an option:")
